@@ -1,0 +1,12 @@
+.main {
+    background-image: url(images.jpeg);
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+.icon {
+    display: flex;
+    padding-top: 300px;
+    padding-left: 200px;
+    gap: 18px;
+}
